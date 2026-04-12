@@ -5,9 +5,9 @@
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone https://github.com/The2GrayHat/FTI
+   git clone https://github.com/The2GrayHat/SentinelSpy
    
-   cd FTI
+   cd SentinelSPY
 
 2. **instalar requerimientos**
    ```bash
