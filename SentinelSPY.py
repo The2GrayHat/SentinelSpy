@@ -11,7 +11,7 @@ MODULOS = {
     3: {"nombre": "Spy", "carpeta": "spy"},
     4: {"nombre": "Cracking", "carpeta": "cracking"},
     5: {"nombre": "Fun", "carpeta": "fun"},
-    6: {"nombre": "Phishing", "carpeta": "phishing"}
+    6: {"nombre": "Phishing", "carpeta": "phishing"},
 }
 
 BLANCO = '\033[38;2;255;255;255m'
