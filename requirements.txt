@@ -1,0 +1,11 @@
+colorama
+beautifulsoup4
+requests
+mpv
+yt-dlp
+telethon
+selenium
+pypiwin32
+pyinstaller
+cx_freeze
+pypresence
