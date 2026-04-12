@@ -1,12 +1,18 @@
 # SentinelSPY
-
 ![tool](assets/kali.png)
 
-## 📦 Instalación
+## 📦 instalacion
 
-1. Clona este repositorio:
+1. **Clonar el repositorio:**
+   ```bash
+   git clone https://github.com/The2GrayHat/FTI
+   
+   cd FTI
 
-```bash
-git clone https://github.com/The2GrayHat/SentinelSpy
-Entra a la herramienta:
-cd SentinelSpy
+2. **instalar requerimientos**
+   ```bash
+   pip install -r requirements # en caso de ser linux añadir al final --break-system-packages
+
+3. **ejecutar**
+   ```bash
+   python SentinelSPY.py
