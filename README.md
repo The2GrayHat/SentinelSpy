@@ -1,2 +1,2 @@
 # SentinelSPY
-![tool](assets/Kali.png)
+![tool](assets/kali.png)
