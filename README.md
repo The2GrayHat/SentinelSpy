@@ -5,7 +5,7 @@
 
 1. Clona este repositorio:
 ```bash
-git clone https://github.com/The2GrayHat/SentinelSpy/
+git clone https://github.com/The2GrayHat/SentinelSpy
 
 2. Entra a la herramienta
 ```bash
