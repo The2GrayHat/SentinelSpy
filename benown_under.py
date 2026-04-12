@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
 
-╔══════════════════════════════════════════════════════════════╗
-║           BENOWN-UNDER v2.4.1  —  FRAMEWORK CORE            ║
-║         Multi-language pentesting toolkit skeleton           ║
-║         Python | Go | Java module support                    ║
-╚══════════════════════════════════════════════════════════════╝
+#╔══════════════════════════════════════════════════════════════╗
+#║           BENOWN-UNDER v2.4.1  —  FRAMEWORK CORE            ║
+#║         Multi-language pentesting toolkit skeleton           ║
+#║         Python | Go | Java module support                    ║
+#╚══════════════════════════════════════════════════════════════╝
 """
 
 import os
